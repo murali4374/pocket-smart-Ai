@@ -1,0 +1,6 @@
+{
+  "name": "PocketSmart AI",
+  "description": "Intelligent Budget Allocation & Recommendation Engine for Home Interior, Party Planning, and Jewelry Styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
